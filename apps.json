@@ -1,0 +1,51 @@
+{
+  "name": "Fujifier",
+  "identifier": "com.ipweb.fujifier.source",
+  "subtitle": "Authentic Fujifilm Film Simulations for Camera RAWs",
+  "description": "Official AltStore repository for Fujifier. Unlock authentic Fujifilm color science (Classic Neg, Classic Chrome, ACROS, Reala Ace, Nostalgic Neg) for Sony, Canon, Nikon, Lumix, and Leica RAW photos on iOS & iPadOS, with direct export into Adobe Lightroom Mobile.",
+  "iconURL": "https://fujifier.cc/wp-content/themes/fujify-theme/assets/images/fujifier-admin-icon.png",
+  "website": "https://fujifier.cc",
+  "headerURL": "https://fujifier.cc/wp-content/themes/fujify-theme/assets/images/fuji-classic-neg.jpg",
+  "apps": [
+    {
+      "name": "Fujifier",
+      "bundleIdentifier": "com.ipweb.fujifier",
+      "developerName": "IP-Web",
+      "subtitle": "Fujifilm Film Simulations for Camera RAWs",
+      "version": "2.0.0",
+      "versionDate": "2026-11-03T21:33:22Z",
+      "versionDescription": "Monumental v2.0.0 milestone. Complete multiplatform rewrite powered by Avalonia 12 and .NET 10. Direct in-process Rust FFI core (dnglab_ffi), PhotoKit library integration, 1,200+ cameras supported, and direct export to Adobe Lightroom Mobile.",
+      "downloadURL": "https://github.com/ip-web/Fujifier/releases/download/v2.0.0/Fujifier-v2.0.0-iOS.ipa",
+      "localizedDescription": "Transform your iPhone, iPad, and mirrorless RAW photos with genuine Fujifilm color science. Fujifier injects authentic Fujifilm camera calibration and film simulation profiles (Provia, Velvia, Astia, Classic Chrome, Classic Neg, Nostalgic Neg, Eterna, ACROS, and Reala Ace) into camera RAW and DNG files. Features Metal acceleration, full dynamic range preservation, and direct 1-tap export to Adobe Lightroom Mobile.",
+      "iconURL": "https://fujifier.cc/wp-content/themes/fujify-theme/assets/images/fujifier-admin-icon.png",
+      "tintColor": "#009A66",
+      "size": 26198258,
+      "minOSVersion": "15.0",
+      "screenshotURLs": [
+        "https://fujifier.cc/wp-content/themes/fujify-theme/assets/images/fuji-classic-neg.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-11-03T21:33:22Z",
+          "size": 26198258,
+          "downloadURL": "https://github.com/ip-web/Fujifier/releases/download/v2.0.0/Fujifier-v2.0.0-iOS.ipa",
+          "localizedDescription": "Monumental v2.0.0 milestone. Complete multiplatform rewrite with Avalonia 12, .NET 10, and high-performance Rust FFI core.",
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Fujifier v2.0.0 Released!",
+      "identifier": "fujifier-v2-release",
+      "caption": "Native multiplatform engine with Avalonia 12, .NET 10, and in-process Rust core.",
+      "date": "2026-11-03T21:33:22Z",
+      "tintColor": "#009A66",
+      "imageURL": "https://fujifier.cc/wp-content/themes/fujify-theme/assets/images/fuji-classic-neg.jpg",
+      "appID": "com.ipweb.fujifier",
+      "url": "https://fujifier.cc/downloads/"
+    }
+  ]
+}
